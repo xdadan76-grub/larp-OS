@@ -1,14 +1,26 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.deb
-*.zip
-*.tgz
-*.log
-*.log.*
-*.sig
 
-pkg/
-src/
+# Build files
+*.iso
+*.img
+*.raw
+*.qcow2
+
+# Packages
+*.pkg.tar.zst
+*.pkg.tar.xz
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# Development
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
+out/
