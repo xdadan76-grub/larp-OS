@@ -1,0 +1,45 @@
+
+# Base system
+base
+linux
+linux-firmware
+systemd
+
+# Boot
+grub
+efibootmgr
+plymouth
+
+# Desktop
+plasma-desktop
+plasma-workspace
+sddm
+konsole
+dolphin
+ark
+
+# Graphics
+wayland
+xorg-xwayland
+
+# Network
+networkmanager
+bluez
+bluez-utils
+
+# Audio
+pipewire
+pipewire-pulse
+wireplumber
+
+# Applications
+firefox
+kate
+git
+nano
+
+# Tools
+sudo
+wget
+curl
+bash-completion
