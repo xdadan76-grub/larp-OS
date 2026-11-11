@@ -1,4 +1,3 @@
-
 # larp.OS
 
 **A modern Linux distribution based on Arch Linux.**
