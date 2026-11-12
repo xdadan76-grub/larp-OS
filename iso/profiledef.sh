@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 
 iso_name="larp"
@@ -10,7 +9,6 @@ install_dir="larp"
 
 buildmodes=('iso')
 bootmodes=('bios.syslinux' 'uefi.grub')
-)
 
 arch="x86_64"
 pacman_conf="pacman.conf"
