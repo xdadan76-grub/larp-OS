@@ -1,12 +1,13 @@
-
 # Base system
 base
 linux
 linux-firmware
-systemd
+mkinitcpio
+mkinitcpio-archiso
 
 # Boot
 grub
+syslinux
 efibootmgr
 plymouth
 
